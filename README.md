@@ -1,6 +1,6 @@
 # web app deployed on Heroku
 
-The deployed web app is live at https://usman043-cal-tesr-app.herokuapp.com/
+The deployed web app is live at https://usman043-cal-test-app.herokuapp.com/
 
 
 
